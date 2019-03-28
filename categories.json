@@ -1,0 +1,78 @@
+{
+    "0": {
+        "mark": 0,
+        "value": "zero"
+    },
+    "1": {
+        "mark": 1,
+        "value": "one"
+    },
+    "2": {
+        "mark": 2,
+        "value": "two"
+    },
+    "3": {
+        "mark": 3,
+        "value": "three"
+    },
+    "4": {
+        "mark": 4,
+        "value": "four"
+    },
+    "5": {
+        "mark": 5,
+        "value": "five"
+    },
+    "6": {
+        "mark": 6,
+        "value": "six"
+    },
+    "7": {
+        "mark": 7,
+        "value": "seven"
+    },
+    "8": {
+        "mark": 8,
+        "value": "eight"
+    },
+    "9": {
+        "mark": 9,
+        "value": "nine"
+    },
+    "10": {
+        "mark": "ә",
+        "value": "letter ә"
+    },
+    "11": {
+        "mark": "ғ",
+        "value": "letter ғ"
+    },
+    "12": {
+        "mark": "қ",
+        "value": "letter қ"
+    },
+    "13": {
+        "mark": "ң",
+        "value": "letter ң"
+    },
+    "14": {
+        "mark": "ө",
+        "value": "letter ө"
+    },
+    "15": {
+        "mark": "ұ",
+        "value": "letter ұ"
+    },
+    "16": {
+        "mark": "ү",
+        "value": "letter ү"
+    },
+    "17": {
+        "mark": "һ",
+        "value": "letter һ"
+    },
+    "18": {
+        "mark": "і",
+        "value": "letter і"
+    }
+}
